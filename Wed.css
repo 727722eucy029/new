@@ -1,0 +1,44 @@
+.toolbar{
+    height:40px;
+    background-color: blanchedalmond;
+  }
+  .Mrgimg{
+    height: 600px;
+    width:1000px;
+    margin-left: 200px;
+    padding-left: 70px;
+  }
+  .events{
+    background-color: gainsboro;
+    height:3000px;
+  }
+  .mrgquote{
+    font-family: cursive;
+  }
+  
+  
+  .invi,.tree,.stage,.hall,.seer,.dj,.melam,.henna,.beauty,.food,.vehicle,.photo{
+    height: 400px;
+    width: 250px;
+    background-color: burlywood;
+   margin-left: 200px;
+    margin-top: 10px;
+    padding-top:10px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    color:black;
+  }
+  .invimg,.treeimg,.stageimg,.hallimg,.seerimg,.djimg,.melamimg,.hennaimg,.beautyimg,.foodimg,.vehiimg,.photoimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+  .footer{
+    background-color: lightgray;
+    text-align: center;
+    height:120px;
+    font-size:larger;
+    color: black;
+    
+  }

@@ -1,0 +1,44 @@
+.toolbar{
+    height:40px;
+    background-color: blanchedalmond;
+  }
+  .Bdayimg{
+    height: 600px;
+    width:1000px;
+    margin-left: 200px;
+    padding-left: 70px;
+  }
+  .events{
+    background-color: gainsboro;
+    height:1000px;
+  }
+  .quote{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  #party{
+    color: rgb(243, 232, 218);
+  }
+  .hwimg{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+  }
+  .warm{
+    height: 400px;
+    width: 250px;
+    background-color: burlywood;
+   margin-left: 200px;
+    margin-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+  }
+  .footer{
+    background-color: lightgray;
+    text-align: center;
+    height:120px;
+    font-size:larger;
+    color: black;
+    
+  }

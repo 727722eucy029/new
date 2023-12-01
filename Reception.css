@@ -1,0 +1,43 @@
+.toolbar{
+    height:40px;
+    background-color:beige;
+  }
+  .Bdayimg{
+    height: 600px;
+    width:1000px;
+    margin-left: 200px;
+  }
+  .events{
+    background-color: gainsboro;
+    height:1200px;
+    color:white;
+  }
+  .bdayquote{
+    font-family: cursive;
+  }
+  
+  .cake{
+    height: 300px;
+    width: 290px;
+    background-color: burlywood;
+   margin-left: 200px;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    color:black;
+  }
+  .cakeimg{
+    padding-top: 1px;
+    height: 150px;
+    width: 200px;
+    border-radius: 50%;
+    }
+    .footer{
+      background-color: lightgray;
+      text-align: center;
+      height:120px;
+      font-size:larger;
+      color: black;
+      
+    }
